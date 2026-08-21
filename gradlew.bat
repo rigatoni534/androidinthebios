@@ -24,6 +24,10 @@
 @rem Set local scope for the variables with windows NT shell
 if "%OS%"=="Windows_NT" setlocal
 
+@rem Workaround for AndroidLocationsBuildService conflict
+@rem Clear one of the variables to ensure only one way to inject preference location
+set ANDROID_PREFS_ROOT=
+
 set DIRNAME=%~dp0
 if "%DIRNAME%" == "" set DIRNAME=.
 set APP_BASE_NAME=%~n0
@@ -66,7 +70,6 @@ goto fail
 
 :execute
 @rem Setup the command line
-
 set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
 
 

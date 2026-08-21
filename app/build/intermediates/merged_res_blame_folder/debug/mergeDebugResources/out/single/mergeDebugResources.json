@@ -1,6 +1,18 @@
 [
     {
-        "merged": "rigatoni.made.app.androidinthebios.app-debug-48:/layout_activity_main.xml.flat",
-        "source": "rigatoni.made.app.androidinthebios.app-main-50:/layout/activity_main.xml"
+        "merged": "rigatoni.made.app.androidinthebios.app-debug-48:/raw_app_asset_watch.mp4.flat",
+        "source": "rigatoni.made.app.androidinthebios.app-main-50:/raw/app_asset_watch.mp4"
+    },
+    {
+        "merged": "rigatoni.made.app.androidinthebios.app-debug-48:/drawable_app_asset_img1.png.flat",
+        "source": "rigatoni.made.app.androidinthebios.app-main-50:/drawable/app_asset_img1.png"
+    },
+    {
+        "merged": "rigatoni.made.app.androidinthebios.app-debug-48:/raw_app_asset_music.mp3.flat",
+        "source": "rigatoni.made.app.androidinthebios.app-main-50:/raw/app_asset_music.mp3"
+    },
+    {
+        "merged": "rigatoni.made.app.androidinthebios.app-debug-48:/drawable_app_asset_img2.png.flat",
+        "source": "rigatoni.made.app.androidinthebios.app-main-50:/drawable/app_asset_img2.png"
     }
 ]

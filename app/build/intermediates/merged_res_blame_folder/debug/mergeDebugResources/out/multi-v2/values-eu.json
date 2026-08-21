@@ -4,7 +4,24 @@
             "outputFile": "rigatoni.made.app.androidinthebios.app-mergeDebugResources-46:/values-eu/values-eu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\1cc813050c2497c1ca0eafdda466fed4\\transformed\\core-1.12.0\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\7abeab8c7406a29188d25b62d9fbd903\\transformed\\media3-exoplayer-1.2.0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,253,325,402,476,587,685",
+                        "endColumns": "68,62,65,71,76,73,110,97,67",
+                        "endOffsets": "119,182,248,320,397,471,582,680,748"
+                    },
+                    "to": {
+                        "startLines": "92,93,94,95,96,97,98,99,100",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8306,8375,8438,8504,8576,8653,8727,8838,8936",
+                        "endColumns": "68,62,65,71,76,73,110,97,67",
+                        "endOffsets": "8370,8433,8499,8571,8648,8722,8833,8931,8999"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\3346102cd833bcfedd28a96a03cb4947\\transformed\\core-1.12.0\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\7b0acb38b51317626f787b61c88075bc\\transformed\\ui-release\\res\\values-eu\\values-eu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,196,277,378,482,574,650,737,826,910,985,1057,1145,1235,1309,1386,1454",
-                        "endColumns": "90,80,100,103,91,75,86,88,83,74,71,87,89,73,76,67,119",
-                        "endOffsets": "191,272,373,477,569,645,732,821,905,980,1052,1140,1230,1304,1381,1449,1569"
-                    },
-                    "to": {
-                        "startLines": "30,31,64,65,67,120,121,122,123,124,125,126,127,129,133,134,135",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1988,2079,5840,5941,6117,10235,10311,10398,10487,10571,10646,10718,10806,10981,11346,11423,11491",
-                        "endColumns": "90,80,100,103,91,75,86,88,83,74,71,87,89,73,76,67,119",
-                        "endOffsets": "2074,2155,5936,6040,6204,10306,10393,10482,10566,10641,10713,10801,10891,11050,11418,11486,11606"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\629779ca2a019ec741b2b786e34d4703\\transformed\\media3-ui-1.2.0\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\e5f1c8d95197cd8a467f78d4660a0003\\transformed\\media3-ui-1.2.0\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,11,15,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\fb68baefb7aaf939a28d5ca9dad52115\\transformed\\material3-1.1.2\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\38786cad1b4bf0eb3f77e55b4bb3054f\\transformed\\material3-1.1.2\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,20 +74,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\3ada2a80fea61db9aeda5efb83d36af5\\transformed\\media3-exoplayer-1.2.0\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\5462808fb92fd573f2f6b114e1e3ea5f\\transformed\\ui-release\\res\\values-eu\\values-eu.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,187,253,325,402,476,587,685",
-                        "endColumns": "68,62,65,71,76,73,110,97,67",
-                        "endOffsets": "119,182,248,320,397,471,582,680,748"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,196,277,378,482,574,650,737,826,910,985,1057,1145,1235,1309,1386,1454",
+                        "endColumns": "90,80,100,103,91,75,86,88,83,74,71,87,89,73,76,67,119",
+                        "endOffsets": "191,272,373,477,569,645,732,821,905,980,1052,1140,1230,1304,1381,1449,1569"
                     },
                     "to": {
-                        "startLines": "92,93,94,95,96,97,98,99,100",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8306,8375,8438,8504,8576,8653,8727,8838,8936",
-                        "endColumns": "68,62,65,71,76,73,110,97,67",
-                        "endOffsets": "8370,8433,8499,8571,8648,8722,8833,8931,8999"
+                        "startLines": "30,31,64,65,67,120,121,122,123,124,125,126,127,129,133,134,135",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1988,2079,5840,5941,6117,10235,10311,10398,10487,10571,10646,10718,10806,10981,11346,11423,11491",
+                        "endColumns": "90,80,100,103,91,75,86,88,83,74,71,87,89,73,76,67,119",
+                        "endOffsets": "2074,2155,5936,6040,6204,10306,10393,10482,10566,10641,10713,10801,10891,11050,11418,11486,11606"
                     }
                 }
             ]

@@ -4,7 +4,7 @@
             "outputFile": "rigatoni.made.app.androidinthebios.app-mergeDebugResources-46:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\1cc813050c2497c1ca0eafdda466fed4\\transformed\\core-1.12.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\3346102cd833bcfedd28a96a03cb4947\\transformed\\core-1.12.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\629779ca2a019ec741b2b786e34d4703\\transformed\\media3-ui-1.2.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\e5f1c8d95197cd8a467f78d4660a0003\\transformed\\media3-ui-1.2.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\cff8f0d43708f64ec55efc969f1668bf\\transformed\\media-1.6.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\e205eb0d7a1cc338172dfe6fa4187b23\\transformed\\media-1.6.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "rigatoni.made.app.androidinthebios.app-mergeDebugResources-46:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\cff8f0d43708f64ec55efc969f1668bf\\transformed\\media-1.6.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\8.11.1\\transforms\\e205eb0d7a1cc338172dfe6fa4187b23\\transformed\\media-1.6.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
