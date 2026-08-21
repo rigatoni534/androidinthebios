@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "rigatoni.made.app.androidinthebios.app-mergeDebugResources-27:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\transforms-3\\6da50bc281d9b7eaf1752636e72c16a0\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rigatoni\\.gradle\\caches\\transforms-3\\13aaadb979dca056175cab265896d31a\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

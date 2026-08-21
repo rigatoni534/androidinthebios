@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">androidinthebios</string>
+    <string name="welcome_message">I am Milo</string>
 </resources>
